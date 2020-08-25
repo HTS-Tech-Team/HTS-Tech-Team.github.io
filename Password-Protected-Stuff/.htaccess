@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile C:\Users\yodal\Desktop\Projects\HTS-Tech-Team.github.io\.htpasswd
-require valid-user
