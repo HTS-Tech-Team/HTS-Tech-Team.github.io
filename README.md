@@ -5,6 +5,8 @@ Need to level the images on the home page
 Need to get rid of all the stuff we aren't using
 
 Change the images on the "What We've Been up to" page/ entirely remove that as we have the social page.
-Make the "Contact Us" heading on contact.html a bit nicer
+Make the "Contact Us" heading on contact.html a bit nicer.
 
-Start the youtube channel, so that we can make links for it
+Create and add our own logo, not the school one.
+
+Start the youtube channel, so that we can make links for it.
