@@ -1,7 +1,7 @@
 Need to get the details for all the social media platforms then use them & curator.io to embed posts into the "What we've been up to" page.
 
-Create a nice Link format for the "social" page.
-
 Create and add our own logo, not the school one.
 
-Start the youtube channel, so that we can make links for it.
+Make a "podcasts" page and embed all of our podcasts there
+
+add out youtube channel to the social page along with our anchor.fm page
